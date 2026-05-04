@@ -5,4 +5,7 @@ __pycache__/
 *.pyc
 .idea/
 *.iml
+
+# Keep the WASM build output for deploy
+!build/web/**
 venv/
