@@ -27,7 +27,7 @@ CSS_BLOCK = """
         transform: translateX(-50%);
         height: 100vh !important;
         width: auto !important;
-        aspect-ratio: 864 / 512;
+        aspect-ratio: 288 / 512;
         max-width: 100vw;
         max-height: 100vh;
         image-rendering: pixelated;
